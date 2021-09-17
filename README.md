@@ -9,7 +9,7 @@
 npm i whatsappfastspam
 ```
 
-run it (note you must use double quotes for Windows, this works on both Windows and Linux (tested Kali 2021.2))
+run it (note you must use double quotes for Windows, this works on both Windows and Linux)
 ```
 node -e "require('whatsappfastspam')"
 ```
