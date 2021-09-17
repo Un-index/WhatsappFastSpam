@@ -3,7 +3,8 @@
 
 # WhatsappFastSpam
 
-<img src = "https://user-images.githubusercontent.com/68165727/133784669-d5db346f-2d09-4cdf-b9f5-08863dc5ff1a.png" width = 330/>
+<img src = "https://user-images.githubusercontent.com/68165727/133798586-131acb9b-2986-4b50-b728-4f85ce18a1d0.png" width = 340/>
+<b><i>  N.B: the estimated duration is sort of flawed right now, ignore that part</i></b>
 
 ### A fast and **very** easy to use spam tool for WhatsApp.
 
@@ -27,6 +28,5 @@ and follow the prompts in the console
 <br>
 
 
-<img src = "https://user-images.githubusercontent.com/68165727/133798038-1e229700-a0a5-43ac-9a72-36f3222d2f16.png" width=700>
+<img src = "https://user-images.githubusercontent.com/68165727/133798038-1e229700-a0a5-43ac-9a72-36f3222d2f16.png" width = 430>
 
-#### N.B: the estimated duration is sort of flawed right now, ignore that part
