@@ -1,10 +1,12 @@
+
+> ## DISCLAIMER: automated messaging is directly in violation of WhatsApp's Terms of Service, this project was created for educational purposes only 
+
 # WhatsappFastSpam
 
 <img src = "https://user-images.githubusercontent.com/68165727/133784669-d5db346f-2d09-4cdf-b9f5-08863dc5ff1a.png" width = 330/>
 
 ### A fast and **very** easy to use spam tool for WhatsApp.
 
-> ### DISCLAIMER: automated messaging is directly in violence of WhatsApp's Terms of Service, this project was created for educational purposes only 
 
 the only dependency it uses is [playwright](https://playwright.dev/), to automate Chromium
 
