@@ -1,5 +1,5 @@
 
-> ## DISCLAIMER: automated messaging is directly in violation of WhatsApp's Terms of Service, this project was created for educational purposes only 
+> ## DISCLAIMER: automated/bulk messaging is in direct violation of WhatsApp's Terms of Service, this project was created for educational purposes only 
 
 # WhatsappFastSpam
 
