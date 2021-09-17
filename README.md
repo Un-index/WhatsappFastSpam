@@ -15,11 +15,12 @@ run it (note you must use double quotes for Windows, this works on both Windows 
 ```
 node -e "require('whatsappfastspam')"
 ```
-
-
 and follow the prompts in the console
 
+You will need your phone to scan the displayed QR code, after that everything happens on its own.
+
 <br>
+
 
 <img src = "https://user-images.githubusercontent.com/68165727/133790995-4036f1e4-489c-47da-82ab-e4d04d2cd080.png" width=700>
 
