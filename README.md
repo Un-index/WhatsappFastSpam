@@ -10,7 +10,7 @@ npm i whatsappfastspam
 
 run it
 ```
-node -e 'require("whatsappfastspam")'
+node -e "require('whatsappfastspam')"
 ```
 
 
