@@ -114,9 +114,8 @@ function estimateDuration(){
     });
   });
 
-  console.log(contactName, message, send);
-
-  console.log(typeof contactName, typeof message, typeof send);
+  // console.log(contactName, message, send);
+  // console.log(typeof contactName, typeof message, typeof send);
 
   const estimated = estimateDuration();
 
