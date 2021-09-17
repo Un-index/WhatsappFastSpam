@@ -1,6 +1,6 @@
 {
-  "name": "whatsappspammer",
-  "version": "1.0.0",
+  "name": "whatsappfastspam",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,4 @@
   "devDependencies": {
     "playwright": "^1.14.1"
   }
-
 }
