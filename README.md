@@ -16,3 +16,7 @@ node -e "require('whatsappfastspam')"
 
 
 and follow the prompts in the console
+
+<img src = "https://user-images.githubusercontent.com/68165727/133790995-4036f1e4-489c-47da-82ab-e4d04d2cd080.png" width =330>
+
+### note: the estimated duration is sort of flawed, ignore that part
