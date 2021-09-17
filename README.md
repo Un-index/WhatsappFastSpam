@@ -27,6 +27,6 @@ and follow the prompts in the console
 <br>
 
 
-<img src = "https://user-images.githubusercontent.com/68165727/133790995-4036f1e4-489c-47da-82ab-e4d04d2cd080.png" width=700>
+<img src = "(https://user-images.githubusercontent.com/68165727/133798038-1e229700-a0a5-43ac-9a72-36f3222d2f16.png" width=700>
 
 #### N.B: the estimated duration is sort of flawed right now, ignore that part
