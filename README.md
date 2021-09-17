@@ -8,15 +8,10 @@ Fast and **very** easy to use spam tool for WhatsApp.
 npm -i whatsappfastspam
 ```
 
-create a file with the name spam and .js extension, and paste this
+run it
+```
+node -e 'require("whatsappfastspam")'
+```
 
-```
-require('whatsappfastspam')
-```
-
-run the file, e.g with
-```
-node spam.js 
-```
 
 and follow the prompts in the console
