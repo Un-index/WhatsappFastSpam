@@ -4,6 +4,8 @@
 
 ### A fast and **very** easy to use spam tool for WhatsApp.
 
+the only dependency it uses is [playwright](https://playwright.dev/), to automate Chromium
+
 ### usage
 ```
 npm i whatsappfastspam
