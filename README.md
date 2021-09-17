@@ -4,7 +4,7 @@
 
 ### A fast and **very** easy to use spam tool for WhatsApp.
 
-### DISCLAIMER: automated messaging is directly in violence of WhatsApp's Terms of Service, this project was created for educational purposes only 
+> ### DISCLAIMER: automated messaging is directly in violence of WhatsApp's Terms of Service, this project was created for educational purposes only 
 
 the only dependency it uses is [playwright](https://playwright.dev/), to automate Chromium
 
