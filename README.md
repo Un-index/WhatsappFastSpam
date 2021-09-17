@@ -5,7 +5,7 @@
 Fast and **very** easy to use spam tool for WhatsApp.
 
 ```
-npm -i whatsappfastspam
+npm i whatsappfastspam
 ```
 
 run it
