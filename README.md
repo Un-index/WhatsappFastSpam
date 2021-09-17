@@ -17,7 +17,7 @@ node -e "require('whatsappfastspam')"
 ```
 and follow the prompts in the console
 
-You will need your phone to scan the displayed QR code, after that everything happens on its own.
+#### You will need your phone to scan the displayed QR code, after that everything happens on its own.
 
 <br>
 
