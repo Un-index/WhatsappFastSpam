@@ -4,7 +4,7 @@
 # WhatsappFastSpam
 
 <img src = "https://user-images.githubusercontent.com/68165727/133798586-131acb9b-2986-4b50-b728-4f85ce18a1d0.png" width = 340/>
-<b><i>  N.B: the estimated duration is sort of flawed right now, ignore that part</i></b>
+
 
 ### A fast and **very** easy to use spam tool for WhatsApp.
 
