@@ -7,6 +7,7 @@
 the only dependency it uses is [playwright](https://playwright.dev/), to automate Chromium
 
 ### usage
+open your terminal and type
 ```
 npm i whatsappfastspam
 ```
@@ -17,7 +18,7 @@ node -e "require('whatsappfastspam')"
 ```
 and follow the prompts in the console
 
-#### You will need your phone to scan the displayed QR code, after that everything happens on its own.
+#### You will need your phone to scan the displayed QR code, but after that everything happens on its own.
 
 <br>
 
