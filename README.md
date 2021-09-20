@@ -12,7 +12,7 @@
 the only dependency it uses is [playwright](https://playwright.dev/), to automate Chromium
 
 ### usage
-###### before continuing ensure you've installed Node; e.g very simply via the installer: https://nodejs.org/en/download/
+###### before continuing ensure you've installed Node; for e.g very simply via the installer: https://nodejs.org/en/download/
 open your terminal and type
 ```
 npm i whatsappfastspam
