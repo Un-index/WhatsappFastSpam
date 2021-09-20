@@ -25,7 +25,7 @@ node -e "require('whatsappfastspam')"
 and follow the prompts in the console
 
 #### Next, **You will need your phone** to scan the displayed QR code, but after that everything happens on its own.
-#### NOTE: ensure you type the name **exactly** as it appears in your contacts list on WhatsApp for it to be recognized 
+#### NOTE: When asked, ensure you type the name **exactly** as it appears in your contacts list on WhatsApp for it to be recognized 
 <br>
 
 
