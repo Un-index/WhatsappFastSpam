@@ -1,10 +1,10 @@
 
 > ## DISCLAIMER: automated/bulk messaging is in direct violation of WhatsApp's Acceptable Use Of Services, this project was created for educational purposes only 
 
-> DOES NOT WORK WITH WHATSAPP BETA
+
 
 # WhatsappFastSpam
-
+> DOES NOT WORK WITH WHATSAPP BETA * 
 <img src = "https://user-images.githubusercontent.com/68165727/134043878-0d143dab-916f-49ac-9911-23a8aa083c76.png" width = 340/>
 
 
